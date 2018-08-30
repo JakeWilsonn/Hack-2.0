@@ -1,5 +1,5 @@
 /**
-*Author: Jake Wilson
+*Author: Jake Wilson & James Kyle Janvrin
 *Date: August 29th, 2018
 *
 *This program will show the distance between two locations of longitude and latitude
